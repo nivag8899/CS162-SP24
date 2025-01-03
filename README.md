@@ -20,5 +20,5 @@ During my exchange program at Berkeley, I was unable to enroll in CS162 (Operati
 - **File Systems / 文件系统**  
   Concepts related to file system architecture, file management, and storage techniques.
 
-- **Distributed / 分布式**
+- **Distributed / 分布式**  
   Some basic concepts on distributed systems.
